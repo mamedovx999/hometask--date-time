@@ -1,14 +1,21 @@
 ﻿
 #region Task1
-//int[] number = new int[] { 34, 567, 89, 54, 45 };
-//for (int i = 0; i < number.Length; i++)
+//void ReverseNumber(string[] word)
 //{
-//    Console.WriteLine(number[i]);
-//    Array.Reverse(number);
+//    string[] newArr = new string[word.Length];
+//	int index = 0;
+//	for (int i = word.Length-1; i >= 0; i--)
+//	{
+//		newArr[index] = word[i];
+//		index++;
+//	}
+//    foreach (var item in newArr)
+//    {
+//        Console.WriteLine(item);
+//    }
 //}
-//Console.WriteLine("=========");
-//for (int i = 0;i < number.Length; i++)
-//    Console.WriteLine(number[i]);
+//string[] stringarr = { "Salam ", "Necesen", "Pb301"};
+//ReverseNumber(stringarr);
 #endregion
 #region Task2
 //Console.WriteLine("Dogum tarixinizi daxil edin");
@@ -17,7 +24,7 @@
 //Console.WriteLine(age);
 #endregion
 #region Task3
-using System.ComponentModel.Design;
+//using System.ComponentModel.Design;
 
 //int year = 2022;
 //if ((year % 400 == 0 || year % 100 != 0) && (year % 4 == 0))
